@@ -10,7 +10,7 @@ export const Background = () => {
 
                 <div className="absolute glow-elipse top-[58px] left-[-150px] blur-[130px] rotate-90"></div>
                 <div className="absolute glow-elipse md:top-[430px] md:left-[950px] blur-[250px]"></div>
-                <div className="absolute rounded-full w-[130px] h-[130px] top-28 right-40 md:w-[259px] md:h-[259px] md:top-[263px] md:right-[110px] gradient-yellow-white rotate-[220deg] z-[-1]"></div>
+                <div className="absolute rounded-full w-[130px] h-[130px] top-24 right-40 md:w-[259px] md:h-[259px] md:top-[263px] md:right-[110px] gradient-yellow-white rotate-[220deg] z-[-1]"></div>
                 <div className="absolute top-32 right-4 md:top-[176px] md:left-[1269px]">
                     <img src="/star-img1.png" className="w-10 h-8 md:w-[54px] md:h-[46px] animate-pulse" />
                 </div>

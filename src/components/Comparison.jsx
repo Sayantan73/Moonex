@@ -17,16 +17,16 @@ export const Comparison = () => {
                         <p className="table-content ps-3 py-4">3. Point no four this </p>
                         <p className="table-content ps-3 py-4">4. Point no five this </p>
                     </div>
-                    <div className="divide-y grow">
-                        <p className="text-4xl font-extrabold text-yellow h-[89px] flex justify-center items-center py-4"><img src="/smallLogo.png" alt="" className="" /></p>
+                    <div className="divide-y grow max-w-[33%]">
+                        <p className="text-4xl font-extrabold text-yellow h-[89px] flex justify-center items-center py-4"><img src="/smallLogo.png" alt="" className="ml-4 scale-110" /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/check_bold.png" alt="" className="size-6 md:size-10" /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/check_bold.png" alt="" className="size-6 md:size-10" /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/check_bold.png" alt="" className="size-6 md:size-10" /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/check_bold.png" alt="" className="size-6 md:size-10" /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/check_bold.png" alt="" className="size-6 md:size-10" /></p>
                     </div>
-                    <div className="divide-y grow">
-                        <p className="text-4xl font-semibold text-yellow h-[89px] flex justify-center items-center pl-1 py-4"><img src="/logo2.png" alt="" className='' /></p>
+                    <div className="divide-y grow max-w-[33%]">
+                        <p className="text-4xl font-semibold text-yellow h-[89px] flex justify-center items-center pl-1 py-4"><img src="/logo2.png" alt="" className='ml-1' /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/close_small.png" alt="" className="size-10 md:size-14" /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/close_small.png" alt="" className="size-10 md:size-14" /></p>
                         <p className="flex justify-center items-center h-[79px] py-4"><img src="/close_small.png" alt="" className="size-10 md:size-14" /></p>
